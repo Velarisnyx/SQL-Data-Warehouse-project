@@ -20,7 +20,9 @@ Scope: Focused only on the most recent data — no need for historical storage.
 Docs: Wrote clear documentation to help both business users and the analytics team understand and use the model.
 
 📊 BI: Analytics & Reporting
+
 Objective:
+
 I created SQL-based analytics to deliver insights into:
 
 👥 Customer behavior
