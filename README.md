@@ -1,8 +1,7 @@
 # SQL-Data-Warehouse-project
 Creating a modern data warehouse using SQL Server with a focus on ETL, data modeling, and analytics.
 
-📌 Project Overview
-🏗️ Building the Data Warehouse
+Building the Data Warehouse
 
 Objective:
 I built a modern data warehouse in SQL Server to bring together sales data and support better reporting and data-driven decisions.
@@ -19,14 +18,14 @@ Scope: Focused only on the most recent data — no need for historical storage.
 
 Docs: Wrote clear documentation to help both business users and the analytics team understand and use the model.
 
-📊 BI: Analytics & Reporting
+BI: Analytics & Reporting
 
 Objective:
 
 I created SQL-based analytics to deliver insights into:
 
-👥 Customer behavior
+-Customer behavior
 
-📦 Product performance
+-Product performance
 
-📈 Sales trends
+-Sales trends
